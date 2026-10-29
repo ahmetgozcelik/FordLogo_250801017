@@ -1,0 +1,24 @@
+# Roboflow export'lari ve ham/islenmis ara veriler (veri seti FordLogo_250801017 icinde)
+/FordLogo1/
+/fordlogo/
+/fordlogo2/
+/fordlogo3/
+/fordlogo5/
+/fordlogo6/
+/fordlogo7/
+Odev1_250801017__AhmedGurkanOzcelik_/
+*.zip
+
+# LaTeX ara dosyalari
+Rapor_250801017/*.aux
+Rapor_250801017/*.log
+Rapor_250801017/*.out
+Rapor_250801017/*.fls
+Rapor_250801017/*.fdb_latexmk
+Rapor_250801017/*.synctex.gz
+Rapor_250801017/main.pdf
+
+# sistem / python
+.DS_Store
+__pycache__/
+*.pyc
