@@ -1,13 +1,6 @@
-# Roboflow export'lari ve ham/islenmis ara veriler (veri seti FordLogo_250801017 icinde)
-/FordLogo1/
-/fordlogo/
-/fordlogo2/
-/fordlogo3/
-/fordlogo5/
-/fordlogo6/
-/fordlogo7/
-Odev1_250801017__AhmedGurkanOzcelik_/
+# teslim zip'i ve ders yonergesi depoya alinmaz
 *.zip
+Odev2-VeriSeti.pdf
 
 # LaTeX ara dosyalari
 Rapor_250801017/*.aux
